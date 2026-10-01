@@ -11,3 +11,4 @@ A simple terminal-based countdown timer written in Python using standard built-i
 ## 🚀 How to Run
 ```bash
 python main.py
+```
