@@ -1,6 +1,6 @@
 # 🐍 30 Days – 30 Python Projects 💻
 
-Welcome to the **30 Days 30 Python Projects** challenge — a beginner-friendly, open-source repository where **anyone can contribute simple Python projects**, one day at a time!
+Welcome to the **30 Days 30 Python Projects** challenge — a beginner-friendly, public repository where **anyone can contribute simple Python projects**, one day at a time!
 
 This is a perfect place to:
 - 💡 Practice your Python skills
@@ -65,3 +65,7 @@ Inspired by learners and coders around the world 🌍
 ## ⭐ Don’t forget to Star & Fork the repo if you like it!
 
 Let’s learn and grow together 💪
+
+## Coding Moves Open Source and Academy
+
+This beginner contribution challenge appears in the [Coding Moves public repository directory](https://codingmoves.netlify.app/open-source/) and [Coding Moves Academy](https://codingmoves.netlify.app/academy/). The projects here are learning exercises, not a single finished application. This repository does not yet have a license covering its community contributions; public visibility alone does not grant reuse rights.
