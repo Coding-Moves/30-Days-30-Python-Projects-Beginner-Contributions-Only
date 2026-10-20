@@ -65,3 +65,7 @@ Inspired by learners and coders around the world 🌍
 ## ⭐ Don’t forget to Star & Fork the repo if you like it!
 
 Let’s learn and grow together 💪
+
+## Coding Moves Academy and Open Source
+
+This beginner contribution challenge is part of [Coding Moves Academy](https://codingmoves.netlify.app/academy/) and the [Open Source](https://codingmoves.netlify.app/open-source/) collection. The projects here are learning exercises, not a single finished application.
