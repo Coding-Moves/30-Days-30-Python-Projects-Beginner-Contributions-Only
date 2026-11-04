@@ -68,4 +68,4 @@ Let’s learn and grow together 💪
 
 ## Coding Moves Open Source and Academy
 
-This beginner contribution challenge appears in the [Coding Moves public repository directory](https://codingmoves.netlify.app/open-source/) and [Coding Moves Academy](https://codingmoves.netlify.app/academy/). The projects here are learning exercises, not a single finished application. This repository does not yet have a license covering its community contributions; public visibility alone does not grant reuse rights.
+This beginner contribution challenge appears in the [Coding Moves public repository directory](https://codingmoves.com/open-source/) and [Coding Moves Academy](https://codingmoves.com/academy/). The projects here are learning exercises, not a single finished application. This repository does not yet have a license covering its community contributions; public visibility alone does not grant reuse rights.
